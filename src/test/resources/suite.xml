@@ -1,0 +1,17 @@
+<suite thread-count="1" verbose="1" name="Welcome to Orange HRM Portal for Selenium TestNG Automation">
+    <test name="Orange HRM portal login test">
+        <classes>
+            <class name="testrunner.LoginTestRunnerNG"/>
+        </classes>
+    </test>
+    <test name="HRM Employee page test">
+        <classes>
+            <class name="testrunner.PIMTestRunnerNG"/>
+        </classes>
+    </test>
+    <test name="Login with second user page test">
+        <classes>
+            <class name="testrunner.NewUserTestRunnerNG"/>
+        </classes>
+    </test>
+</suite>
