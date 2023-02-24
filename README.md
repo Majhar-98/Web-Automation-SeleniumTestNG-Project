@@ -5,6 +5,15 @@ TestNG is an open-source test automation framework for Java. It is developed on 
 A few advanced and useful features provided by TestNG make it a more robust framework compared to its peers. 
 The NG in TestNG stands for ‘Next Generation.’ Created by Cedric Beust, it is used more frequently by developers and testers in test case creation, owing to its ease of using multiple annotations, grouping, dependence, prioritization, and parametrization features.
 
+## Benefits of TestNG with Selenium:
+One of the drawbacks of Selenium is that it does not have a proper format for the test results. By using TestNG framework in Selenium, Tester can:
+1. Generate the report in a proper format.
+2. Include the number of test cases run; tests passed, failed, and skipped in the report.
+3. Group test cases by converting them to testing.xml
+4. Use invocation count and execute multiple tests without using loops
+5. Perform cross browser testing
+6. Easily understand annotations
+
 ## Technologies Used:
 - Java
 - Selenium 
