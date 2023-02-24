@@ -2,7 +2,7 @@
 
 ## Technologies Used:
 - Java
-- Selenium (4.6)
+- Selenium 
 - TestNG
 - Allure
 - Faker Library
