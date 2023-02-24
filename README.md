@@ -8,3 +8,8 @@
 - Faker Library
 
 ## Flow Of Automation:
+
+## Requirement:
+Java needs to be installed in device
+
+## Allure Report:
