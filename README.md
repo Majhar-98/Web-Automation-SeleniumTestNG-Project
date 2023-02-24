@@ -6,3 +6,5 @@
 - TestNG
 - Allure
 - Faker Library
+
+## Flow Of Automation:
