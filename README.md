@@ -7,7 +7,7 @@
 - Allure
 - Faker Library
 
-## Flow Of Automation Scenarios:
+## Flow of Automation Scenarios:
 1. Login to orange hrm demo site
 https://opensource-demo.orangehrmlive.com/
 
