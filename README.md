@@ -40,3 +40,5 @@ Java needs to be installed in device
 
 ## Allure Report:
 
+![image](https://user-images.githubusercontent.com/123467715/221544089-2e3d76fa-c793-41d3-8c9c-6b0478bd3bf2.png)
+
