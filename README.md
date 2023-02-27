@@ -39,3 +39,4 @@ https://opensource-demo.orangehrmlive.com/
 Java needs to be installed in device
 
 ## Allure Report:
+
