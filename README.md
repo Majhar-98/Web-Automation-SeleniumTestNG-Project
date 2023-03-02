@@ -38,6 +38,17 @@ https://opensource-demo.orangehrmlive.com/
 ## Requirement:
 Java needs to be installed in device
 
+## How to run this project
+Clone the repo
+Open cmd in the root folder
+Give following commands:
+
+        gradle clean test
+        
+        allure generate allure-results --clean -o allure-report
+        
+        allure serve allure-results
+
 ## Allure Report:
 
 ![image](https://user-images.githubusercontent.com/123467715/221544089-2e3d76fa-c793-41d3-8c9c-6b0478bd3bf2.png)
