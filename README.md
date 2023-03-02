@@ -39,9 +39,9 @@ https://opensource-demo.orangehrmlive.com/
 Java needs to be installed in device
 
 ## How to run this project
-Clone the repo
-Open cmd in the root folder
-Give following commands:
+- Clone the repo
+- Open cmd in the root folder
+- Give following commands:
 
         gradle clean test
         
